@@ -898,7 +898,8 @@ footer {
 }
 
 #lead {
-	animation: bgiLoop 5s linear infinite;
+	/* animation: bgiLoop 5s linear infinite; */
+	animation: bgiLoop 10s ease-out infinite;
 }
 
 @keyframes bgiLoop {
